@@ -1,4 +1,4 @@
-# FreeTWAI-AI
+# FreeTWAI
 
 Freedom Platform / 自由工坊 — AI 自由平台.
 
